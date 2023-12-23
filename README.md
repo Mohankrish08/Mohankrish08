@@ -8,7 +8,7 @@ Aspiring Data Scientist
 As an AI & Data Science Enthusiast and an Undergraduate Student at KCT'24, majoring in Artificial Intelligence & Data Science, I am actively working on projects based on Machine Learning and Data Science. I consider myself a critical thinker, passionately curious, and a problem solver.
 
 * 🌍  I'm based in Coimbatore
-* 🖥️  See my portfolio at [MyPortfolio](http://https://mohankrish-portfolio.streamlit.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://mohankrish-portfolio.streamlit.app/)
 * ✉️  You can contact me at [mohankrishce@gmail.com](mailto:mohankrishce@gmail.com)
 * 🧠  I'm learning Javascript, PyTorch, SQL
 * ⚡  Photographer.
