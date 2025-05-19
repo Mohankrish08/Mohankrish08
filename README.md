@@ -2,15 +2,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm Mohan krishnan O
 ========================================================================================================================================
 
-Aspiring Data Scientist
+Machine Learning Engineer
 -----------------------
 
-As an AI & Data Science Enthusiast and an Undergraduate Student at KCT'24, majoring in Artificial Intelligence & Data Science, I am actively working on projects based on Machine Learning and Data Science. I consider myself a critical thinker, passionately curious, and a problem solver.
+As an AI & Data Science Enthusiast, Working as a Machine Learning Engineer. Completed my B.Tech in Artificial Intelligence & Data Science, I am actively working on projects based on Machine Learning and Data Science. I consider myself a critical thinker, passionately curious, and a problem solver.
 
-* 🌍  I'm based in Coimbatore
-* 🖥️  See my portfolio at [MyPortfolio](https://mohankrish-portfolio.streamlit.app/)
+* 🌍  I'm based in Coimbatore.
 * ✉️  You can contact me at [mohankrishce@gmail.com](mailto:mohankrishce@gmail.com)
-* 🧠  I'm learning Javascript, PyTorch, SQL
+* 🧠  I'm learning Angular, PyTorch
 * ⚡  Photographer.
 
 ### Skills
