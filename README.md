@@ -5,7 +5,7 @@ I'm Mohan krishnan O
 Machine Learning Engineer
 -----------------------
 
-I’m an AI & Data Science enthusiast currently working as a Machine Learning Engineer. I hold a B.Tech in Artificial Intelligence & Data Science, and I’m actively involved in building real-world projects in the fields of Machine Learning, Data Science, and AI.
+I’m an AI & Data Science enthusiast currently working as a Machine Learning Engineer. I hold a B.Tech in Artificial Intelligence & Data Science Degree 🎓, and I’m actively involved in building real-world projects in the fields of Machine Learning, Data Science, and AI.
 
 I consider myself a critical thinker, passionately curious, and a dedicated problem solver. I'm always exploring new ways to apply intelligent systems to solve meaningful problems.
 
